@@ -3,7 +3,7 @@
 ### App Description
  ##### This is my first android app, called HelloAnna. There are three buttons on the page: one to change the text color, one to change the background color and one to change the text. When you change the text, the default is "Hello From Anna", but if you type something in the input line, you can make the text whatever you choose. Finally, to reset all of the features, simply tap the background
 
-### App Walk-though
+### App Walkthrough
 
 <img src="http://g.recordit.co/3z4MHTw3Tv.gif" width=200><br>
 
