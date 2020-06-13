@@ -1,14 +1,11 @@
 ## HelloAnna
 
 ### App Description
- # This is my first android app, called HelloAnna
+ ##### This is my first android app, called HelloAnna. There are three buttons on the page: one to change the text color, one to change the background color and one to change the text. When you change the text, the default is "Hello From Anna", but if you type something in the input line, you can make the text whatever you choose. Finally, to reset all of the features, simply tap the background
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/3z4MHTw3Tv.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
